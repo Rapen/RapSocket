@@ -1,0 +1,2 @@
+# RapSocket
+A simple websocket.
